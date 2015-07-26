@@ -1,0 +1,7 @@
+---
+1: !ruby/object:Book
+  id: 1
+2: !ruby/object:Book
+  id: 2
+3: !ruby/object:Book
+  id: 3

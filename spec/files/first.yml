@@ -1,0 +1,9 @@
+---
+3: !ruby/object:Book
+  id: 3
+5: !ruby/object:Book
+  id: 5
+6: !ruby/object:Book
+  id: 6
+7: !ruby/object:Book
+  id: 7
